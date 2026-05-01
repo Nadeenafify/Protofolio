@@ -16,7 +16,7 @@ const Hero = () => {
           Hi, I'm <span className="text-pink-400">Nadeen Ashraf</span>
         </h1>
         <p className="text-lg sm:text-xl md:text-2xl mb-6 text-purple-700">
-          Frontend Developer | React & Next.js  Enthusiast
+          Fullstack Engineer 
         </p>
         <a
           href="#projects"

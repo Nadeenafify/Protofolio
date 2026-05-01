@@ -15,13 +15,13 @@ const Footer = () => {
       
         <div className="flex gap-6">
           <a
-            href="mailto:your@email.com"
+            href="nadeenashraf995@gmail.com"
             className="hover:text-purple-600 transition"
           >
             Email
           </a>
           <a
-            href="https://github.com/yourusername"
+            href="https://github.com/Nadeenafify"
             target="_blank"
             rel="noopener noreferrer"
             className="hover:text-purple-600 transition"
@@ -29,7 +29,7 @@ const Footer = () => {
             GitHub
           </a>
           <a
-            href="https://linkedin.com/in/yourusername"
+            href="https://www.linkedin.com/in/nadeen-ashraf-6795a122a/"
             target="_blank"
             rel="noopener noreferrer"
             className="hover:text-purple-600 transition"

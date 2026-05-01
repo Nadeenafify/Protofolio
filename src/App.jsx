@@ -6,6 +6,7 @@ import Projects from './components/Projects'
 import Footer from './components/Footer'
 import Skills from './components/Skills'
 import WorkExperience from './components/WorkExperience'
+import Education from './components/Education'
 
 
 function App() {
@@ -14,8 +15,9 @@ function App() {
   return (
     <>
       <Hero />
-      <div className='px-5 sm:px-16 flex mt-20  flex-col gap-20'>
+      <div className='px-5 sm:px-16 flex mt-20  flex-col gap-10'>
         <AboutMe />
+        <Education/>
         <WorkExperience />
         <Projects />
         <Skills />

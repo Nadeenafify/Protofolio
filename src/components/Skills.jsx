@@ -1,17 +1,27 @@
 
 const Skills = () => {
-    const skills = [
-        "HTML",
-        "CSS",
-        "Tailwind CSS",
-        "Bootstrap",
-        "JavaScript",
-        "TypeScript",
-        "React",
-        "React Native",
-        "Next.js",
-        "Git & GitHub",
-    ];
+    const skills = 
+        [
+            "HTML",
+            "CSS",
+            "Tailwind CSS",
+            "Bootstrap",
+            "JavaScript",
+            "TypeScript",
+            "React",
+            "React Native",
+            "Next.js",
+            "Node.js",
+            "Express",
+            "MySQL",
+            "PostgreSQL",
+            "MongoDB",
+            "JWT",
+            "OOP",
+            "Design Patterns",
+            "SOLID Principles",
+            "Data Structures & Algorithms"
+        ]
 
     return (
         <section
