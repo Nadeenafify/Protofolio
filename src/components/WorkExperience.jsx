@@ -12,6 +12,22 @@ const WorkExperience = () => {
 
         {/* <div className="bg-gradient-to-r from-pink-50 via-purple-50 to-blue-50 rounded-2xl shadow-md p-8"> */}
           <h3 className="text-xl font-semibold text-pink-500">
+            Full Stack Developer
+          </h3>
+          <p className="text-gray-600 font-medium">
+            Smart Station Solutions • May 2026 – Present
+          </p>
+
+          <ul className="mt-4 space-y-2 text-gray-700 list-disc list-inside">
+            <li>
+              Building full stack web applications using <strong>React</strong>, <strong>Next.js</strong>, and <strong>NestJS</strong>.
+            </li>
+            <li>
+              Designing and integrating <strong>REST APIs</strong> with <strong>NestJS</strong> and relational databases.
+            </li>
+          </ul>
+
+          <h3 className="text-xl font-semibold text-pink-500 mt-8">
             Frontend Developer
           </h3>
           <p className="text-gray-600 font-medium">

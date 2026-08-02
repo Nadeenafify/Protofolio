@@ -13,6 +13,7 @@ const Skills = () => {
             "Next.js",
             "Node.js",
             "Express",
+            "NestJS",
             "MySQL",
             "PostgreSQL",
             "MongoDB",
